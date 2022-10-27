@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidStudioProjects/RecyclerView-Bio/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/RecyclerView-Bio/app/src/main/res/layout/items.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/fadil/AndroidStudioProjects/RecyclerView-Bio/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/fadil/AndroidStudioProjects/RecyclerView-Bio/app/src/main/res/layout/items.xml" value="0.203125" />
       </map>
