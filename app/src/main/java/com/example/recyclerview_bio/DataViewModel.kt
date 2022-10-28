@@ -10,7 +10,7 @@ class DataViewModel : ViewModel() {
     init {
         listOfPerson.add(DataModel(R.drawable.photo012, "Fadila Kharisma Yoga", "225150209111007", "A"))
         listOfPerson.add(DataModel(R.drawable.photo014, "Denny Prastyo I.", "225150209111014", "B"))
-        listOfPerson.add(DataModel(R.drawable.photo012, "Yoga", "225150209111009", "C"))
+        listOfPerson.add(DataModel(R.drawable.photo012, "Kharisma Aryawitama", "225150209111004", "E"))
     }
 
     fun dataList(): MutableList<DataModel> {
