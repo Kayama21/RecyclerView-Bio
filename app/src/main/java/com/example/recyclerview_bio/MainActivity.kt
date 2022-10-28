@@ -16,5 +16,6 @@ class MainActivity : AppCompatActivity() {
 
         rvList.adapter = adapter
         rvList.layoutManager = LinearLayoutManager(this)
+
     }
 }
